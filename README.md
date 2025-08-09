@@ -28,6 +28,11 @@ This project involved designing and implementing a fully functional management s
 - Application Debugging & Performance Optimization
 - Problem-Solving in Real-World Scenarios
 
+## 📽️ Demo
+
+🎥 [Click here to watch the demo video](https://www.linkedin.com/posts/vihangi-sandakirani_university-visualprogramming-project-activity-7228647200124215296-oONX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvXYMkB57HmQhefMC2-tLEEPej6tEDn7Xw)
+
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
