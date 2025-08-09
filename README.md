@@ -46,3 +46,7 @@ This project involved designing and implementing a fully functional management s
 1. Clone the repository:
    ```bash
    git clone https://github.com/sandakirani/mobile-system-using-visual-studio.git
+
+2. Open the solution file (.sln) in Visual Studio
+3. Configure your SQL Server database connection in the config file
+4. Build and run the project
