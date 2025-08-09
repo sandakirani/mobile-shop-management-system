@@ -32,4 +32,4 @@ This project involved designing and implementing a fully functional management s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git](https://github.com/sandakirani/mobile-system-using-visual-studio.git
+   git clone https://github.com/sandakirani/mobile-system-using-visual-studio.git
