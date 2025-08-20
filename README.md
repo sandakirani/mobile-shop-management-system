@@ -24,6 +24,7 @@ This project involved designing and implementing a fully functional management s
 
 ---
 
+
 ## 💡 Skills Gained
 
 - C# Desktop Application Development
@@ -34,9 +35,9 @@ This project involved designing and implementing a fully functional management s
 
 ---
 
-## 📽️ Demo
+## 🎥 Project Demo
 
-🎥 [Click here to watch the demo video](https://www.linkedin.com/posts/vihangi-sandakirani_university-visualprogramming-project-activity-7228647200124215296-oONX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvXYMkB57HmQhefMC2-tLEEPej6tEDn7Xw)
+<video src="https://github.com/user-attachments/assets/e9a60213-f412-44bb-ab40-712cf0bc640b" controls width="700" autoplay muted loop></video>
 
 ---
 
